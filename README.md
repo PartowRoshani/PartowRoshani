@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 **B.Sc. in Computer Science (3rd semester)** at **Shahid Beheshti University (Melli)**
-- 💡 Passionate about **programming, collaboration, and continuous learning**
+- 🎓 **B.Sc. Computer Science** at **Shahid Beheshti University (Melli)**
+- 💡 Love to learn & collaborate on **programming** projects
 - 🚀 Enthusiastic about **real-time systems**, **Java/JavaFX**, **sockets**, and **PostgreSQL**
-- ⭐ Favorite project so far: **Telegram Clone** (real-time, groups/channels, media, receipts, dark/light UI) — I truly enjoy building apps of this scale  
-- 🌍 Looking forward to collaborating on challenging projects that empower users and deliver meaningful impact  
+- ⭐ Favorite work so far: **Telegram Clone** (real-time, groups/channels, media, receipts, dark/light UI)
+- 🌱 Passionate about building **large-scale applications** and continuously improving my skills
 
 ---
 
