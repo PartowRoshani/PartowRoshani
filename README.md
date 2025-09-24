@@ -5,7 +5,6 @@
 
 ### 👨‍🎓 About Me
 - 🎓 **3rd-semester B.Sc. Computer Science student** at **Shahid Beheshti University (Melli)**  
-- 📚 GPA: **19.28 / 20**  
 - 💡 Passionate about **programming, collaboration, and continuous learning**  
 - 🚀 Enthusiastic about building **real-time, user-centered applications** —  
   my favorite project so far has been my **Telegram Clone**, and I enjoy developing similar large-scale apps  
