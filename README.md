@@ -19,7 +19,7 @@
 
 <!-- Skill icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,postgres,git,github,idea,vscode,latex,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,postgres,git,github,idea,vscode,latexline=10" />
 </p>
 
 <!-- Progress bar style 'stack' -->
