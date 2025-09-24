@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi, I'm Partow 👋</h1>
-<h3 align="center">B.Sc. CS @ Shahid Beheshti University (Melli) — 3rd semester</h3>
+<h3 align="center">B.Sc.Computer Science Student at  Shahid Beheshti University (Melli) — 3rd semester</h3>
 
 <p align="center">
   Passionate about programming, collaboration, and building real-time, user-centered apps.  
