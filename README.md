@@ -1,10 +1,15 @@
 <h1 align="center">Hi, I'm Partow 👋</h1>
 <h3 align="center">3rd-semester CS Student @ Shahid Beheshti University (Melli)</h3>
 
-<p align="center">
-  Passionate about programming, collaboration, and building real-time apps.  
-  Loved building my <b>Telegram Clone</b> 🚀
-</p>
+---
+
+### 👨‍🎓 About Me
+- 🎓 **B.Sc. in Computer Science (3rd semester)** at **Shahid Beheshti University (Melli)**
+- 📈 GPA: **19.28 / 20**
+- 💡 Passionate about **programming, collaboration, and continuous learning**
+- 🚀 Enthusiastic about **real-time systems**, **Java/JavaFX**, **sockets**, and **PostgreSQL**
+- ⭐ Favorite project so far: **Telegram Clone** (real-time, groups/channels, media, receipts, dark/light UI) — I truly enjoy building apps of this scale  
+- 🌍 Looking forward to collaborating on challenging projects that empower users and deliver meaningful impact  
 
 ---
 
