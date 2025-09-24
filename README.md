@@ -7,7 +7,7 @@
 - 🎓 **B.Sc. Computer Science** at **Shahid Beheshti University (Melli)**
 - 💡 Love to learn & collaborate on **programming** projects
 - 🚀 Enthusiastic about **real-time systems**, **Java/JavaFX**, **sockets**, and **PostgreSQL**
-- ⭐ Favorite work so far: **Telegram Clone** (real-time, groups/channels, media, receipts, dark/light UI)
+- ⭐ Favorite work so far: **Telegram Clone** 
 - 🌱 Passionate about building **large-scale applications** and continuously improving my skills
 
 ---
