@@ -1,16 +1,5 @@
-<h1 align="center">Hi, I'm Partow </h1>
-<h3 align="center">3rd-semester  Computer Science Student at Shahid Beheshti University (Melli)</h3>
-
----
-
-### 👨‍🎓 About Me
-- 🎓 **B.Sc. Computer Science** at **Shahid Beheshti University (Melli)**
-- 💡 Love to learn & collaborate on **programming** projects
-- 🚀 Enthusiastic about **real-time systems**, **Java/JavaFX**, **sockets**, and **PostgreSQL**
-- ⭐ Favorite work so far: **Telegram Clone** 
-- 🌱 Passionate about building **large-scale applications** and continuously improving my skills
-
----
+<h1 align="center">Hi, I'm Partow 👋</h1>
+<h3 align="center">B.Sc. Computer Science @ Shahid Beheshti University (Melli) | Java & Backend | Real-time Systems</h3>
 
 <p align="center">
   <a href="mailto:roshanipartow@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
@@ -20,34 +9,24 @@
 
 ---
 
-<table align="center">
-<tr>
-<td align="center" width="200px">
-  
-<!-- Skills -->
-<img src="https://skillicons.dev/icons?i=java,cpp,python,postgres,git,github&perline=3" />
+## 🚀 Highlight Projects
+- **Telegram Clone (Java/JavaFX + PostgreSQL)** — real-time chat + persistence  
+- **Personalized PageRank** — Monte Carlo vs Power Iteration, benchmarks  
+- **(Your 3rd best project)** — one-line value
 
-</td>
-<td align="center" width="300px">
-  
-<!-- Languages -->
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PartowRoshani&layout=compact&theme=tokyonight&hide_border=true" />
+## 📌 Now
+- Working on: **(project)**
+- Learning: **(topic)**
+- Next goal: **(goal)**
 
-</td>
-<td align="center" width="300px">
-  
-<!-- Stats -->
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=PartowRoshani&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
----
+## 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=java,cpp,python,postgres,git,github&perline=6" />
 
 <div align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=PartowRoshani&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PartowRoshani&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<!-- Contribution graph -->
-<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=PartowRoshani&theme=tokyo-night&hide_border=true" />
-
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=PartowRoshani&theme=tokyonight&hide_border=true" />
 </div>
