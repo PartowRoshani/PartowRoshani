@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Partow 👋</h1>
+<h1 align="center">Hi, I'm Partow </h1>
 <h3 align="center">
 B.Sc. Computer Science @ Shahid Beheshti University (Melli) |
 Java • Backend • Graph Analytics
