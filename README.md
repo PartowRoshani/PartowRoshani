@@ -40,3 +40,24 @@ Java • Backend • Graph Analytics
 <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=PartowRoshani&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+<div align="center">
+
+<a href="http://partowroshani.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/partow-roshani" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:roshanipartow@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/PartowRoshani" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
