@@ -9,7 +9,7 @@ Java • Backend • Graph Analytics
 ## 🚀 Highlight Projects
 - **Telegram Clone** – Real-time messaging, JavaFX + PostgreSQL
 - **Personalized PageRank** – Monte Carlo vs Power Iteration benchmarking
-- **Space Invaders (C++)** – OOP game design
+- **Space Invaders (C++)** - Terminal based game
 
 ---
 
